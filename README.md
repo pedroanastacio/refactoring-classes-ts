@@ -21,7 +21,4 @@ The main goal of the challenge is to migrate an already functional application f
    <a href="https://reactjs.org/" title="ReactJS">
     <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    </a>
-   <a href="https://github.com/typicode/json-server" title="Json Server">
-    <img align="center" alt="Json Server" height="30" width="80" src="https://miro.medium.com/max/830/1*0yknPnKsJhK9B3nFIaknUw.png">
-   </a>
   </div>
